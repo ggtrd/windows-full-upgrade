@@ -1,0 +1,1 @@
+Simple script to update everything on Windows
